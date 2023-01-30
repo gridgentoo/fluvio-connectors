@@ -1,5 +1,9 @@
 Original Repository.    
-https://github.com/infinyon/fluvio-connectors     
+https://github.com/infinyon/fluvio-connectors  
+
+Routing traffic in Rust using eBPF.     
+https://docs.google.com/document/d/123Y_mkn-dVfviIJVSvS4iXYyER-L61wYhv6ymQ6JHvQ/       
+
 
 <div align="center">
 <h1>Fluvio - Connectors</h1>
